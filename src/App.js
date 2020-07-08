@@ -1,7 +1,5 @@
 import React, { useLayoutEffect, useRef } from 'react';
 import './App.css';
-import 'web-animations-js'
-
 function App() {
 
   var background1 = useRef(null)

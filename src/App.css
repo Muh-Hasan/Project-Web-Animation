@@ -52,12 +52,12 @@ img {
 }
 
 .bush {
-  top: 55%; left: 20%    
+  top: 55%; left: 30%    
 }
 
 .red-queen_and_alice {
   position: absolute;
-  top: 0; left: 50%;
+  top: 0; left: 40%;
   transform: translate(-50%, -50%);
   overflow: hidden;
   width: 80%;
@@ -93,10 +93,4 @@ img {
 .sky {
   background: #246e89 url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/bg_sky.jpg") repeat-x  100% 100% / auto 100%;
   top: 0;
-}
-.warp {
-  width: 100%; height: 100%;
-  overflow: hidden;
-  position: relative;
-
 }
